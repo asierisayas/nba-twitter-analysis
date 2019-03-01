@@ -1,0 +1,18 @@
+.custom-card{
+    text-align: center !important;
+    margin: 10% !important;
+    background: black !important;
+    color: white !important;
+    height: 170px !important;
+    width: 900px !important;
+    padding: 3% !important;
+}
+
+body{
+    background-color: black;
+    color: #fff;
+}
+
+.card-text{
+    font-size: 24px;
+}
